@@ -301,7 +301,7 @@ python -m http.server 8080
 
 ## 🏆 Competition
 
-**UMSIC 2025** - Universiti Malaya Social Innovation Competition
+**AI in Medicine Bootcamp & Hackathon 2025**
 
 **Team:** EEyerrr  
 **Track:** Senior Care Solutions
