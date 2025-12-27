@@ -77,7 +77,7 @@ PRESENCE_JSON_PATH = os.environ.get("PRESENCE_JSON_PATH", "presence.json")
 SPEC_EVERY_N = int(os.environ.get("SPEC_EVERY_N", "3"))
 PRESENCE_PUSH_INTERVAL = float(os.environ.get("PRESENCE_PUSH_INTERVAL", "15"))
 
-ASSEMBLYAI_API_KEY = os.environ.get("ASSEMBLYAI_API_KEY", "a5da8071d9a04261bb43d7c414664ff7")
+ASSEMBLYAI_API_KEY = os.environ.get("ASSEMBLYAI_API_KEY")
 PICOVOICE_ACCESS_KEY = os.environ.get("PICOVOICE_ACCESS_KEY", "FSo7LADnWrT20JU6nUyBrhypXy+U/1AikrLYeaPmwNHE1yQTDJ/aog==")
 KEYWORD_PATH = os.environ.get("KEYWORD_PATH", "/home/zhipin/Documents/scene_integration/hey-pico_en_raspberry-pi_v3_0_0.ppn")
 
