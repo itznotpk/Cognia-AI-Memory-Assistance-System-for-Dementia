@@ -318,7 +318,7 @@ python -m http.server 8080
 
 ## 📄 License
 
-This project is developed for UMSIC 2025 competition purposes.
+This project is developed for AI In Medicine Bootcamp & Hackathon 2025 purposes.
 
 ---
 
